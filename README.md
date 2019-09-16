@@ -1,2 +1,2 @@
 # Fault-Tolerant
-Fault tolerant distributed system for subsea applications
+Fault tolerant distributed systems
